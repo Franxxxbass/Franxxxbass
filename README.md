@@ -2,5 +2,4 @@
 - 👀 I’m interested in programming, as a trained musican I love music 
 - 🌱 I’m currently learning to program in Python
 - 📫 How to reach me - franxxx@interia.pl
-
-
+- just finished Python for web developement course in Software Developement Academy
